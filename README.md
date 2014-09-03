@@ -1,2 +1,2 @@
-Dockerfile for Ubuntu
-=====================
+Docker for Ubuntu Trusty
+========================
