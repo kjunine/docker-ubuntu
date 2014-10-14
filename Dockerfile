@@ -1,6 +1,6 @@
 FROM ubuntu:trusty
 MAINTAINER Daniel Ku "kjunine@gmail.com"
-ENV REFRESHED_AT 2014-09-03
+ENV REFRESHED_AT 2014-10-14
 
 RUN apt-get update && \
     apt-get upgrade -y && \
